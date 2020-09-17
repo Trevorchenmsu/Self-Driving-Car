@@ -1,0 +1,10 @@
+﻿  hybrid_breadth_first.cpp
+D:\Sefl-Driving\Term3\HybridAstar\hybrid_breadth_first.cpp(83): warning C4552: '+': result of expression not used
+D:\Sefl-Driving\Term3\HybridAstar\hybrid_breadth_first.cpp(164): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Sefl-Driving\Term3\HybridAstar\hybrid_breadth_first.cpp(165): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Sefl-Driving\Term3\HybridAstar\hybrid_breadth_first.cpp(179): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+D:\Sefl-Driving\Term3\HybridAstar\main.cpp(68): warning C4018: '<': signed/unsigned mismatch
+D:\Sefl-Driving\Term3\HybridAstar\main.cpp(71): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  hybriAstar.vcxproj -> D:\Sefl-Driving\Term3\HybridAstar\hybriAstar\Debug\hybriAstar.exe
